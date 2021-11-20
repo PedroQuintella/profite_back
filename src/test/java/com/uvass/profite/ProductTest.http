@@ -1,0 +1,5 @@
+/// Buscar Produto
+GET http://localhost:8020/produto
+Accept: application/json
+
+###
