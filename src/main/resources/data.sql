@@ -38,10 +38,10 @@ INSERT INTO product(id, name, image, oldPrice, price, description, installments_
 VALUES (4, 'Product Number 4','//imagens.pontofrio.com.br/Control/ArquivoExibir.aspx?IdArquivo=6875461', 139, 92, 'Product long description number 4 just to make more than one like of text.', 4);
 
 INSERT INTO product(id, name, image, oldPrice, price, description, installments_id)
-VALUES (5, '//imagens.pontofrio.com.br/Control/ArquivoExibir.aspx?IdArquivo=6624363', 112, 68, 'description": "Product long description number 5 just to make more than one like of text.', 5);
+VALUES (5, 'Product Number 5', '//imagens.pontofrio.com.br/Control/ArquivoExibir.aspx?IdArquivo=6624363', 112, 68, 'Product long description number 5 just to make more than one like of text.', 5);
 
 INSERT INTO product(id, name, image, oldPrice, price, description, installments_id)
-VALUES (6, 'Product Number 6','//imagens.pontofrio.com.br/Control/ArquivoExibir.aspx?IdArquivo=6670538', 140, 114, 'description": "Product long description number 6 just to make more than one like of text.', 6);
+VALUES (6, 'Product Number 6','//imagens.pontofrio.com.br/Control/ArquivoExibir.aspx?IdArquivo=6670538', 140, 114, 'Product long description number 6 just to make more than one like of text.', 6);
 
 INSERT INTO product(id, name, image, oldPrice, price, description, installments_id)
-VALUES (7, 'Product Number 7','//imagens.pontofrio.com.br/Control/ArquivoExibir.aspx?IdArquivo=6584703', 213, 201, 'description": "Product long description number 7 just to make more than one like of text.', 7);
+VALUES (7, 'Product Number 7','//imagens.pontofrio.com.br/Control/ArquivoExibir.aspx?IdArquivo=6584703', 213, 201, 'Product long description number 7 just to make more than one like of text.', 7)
